@@ -1,11 +1,11 @@
 import Header from "./components/header";
-import ListarTarefa from "./pages/tarefa/ListarTarefa";
+import ListarProduto from "./pages/tarefa/ListarProduto";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <ListarTarefa />
+      <ListarProduto />
     </div>
   );
 }
